@@ -1,0 +1,12 @@
+Board Information Report
+Filename     : D:\Altium¹¤³Ì\DRV8301_project\DRV8301.PcbDoc
+Date         : 2023/10/15
+Time         : 18:47:27
+Time Elapsed : 00:00:00
+
+Routing Information
+    Routing completion, 97.40%
+    Connections, 231
+    Connections routed, 225
+    Connections remaining, 6
+count : 4

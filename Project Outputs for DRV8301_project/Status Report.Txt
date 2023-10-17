@@ -1,0 +1,12 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [DRV8301_project.PrjPcb]
+   Generated File[DRV8301.TXT]
+   Generated File[DRV8301.LDP]
+   Generated File[DRV8301.DRR]
+
+
+Files Generated   : 3
+Documents Printed : 0
+
+Finished Output Generation At 18:24:31 On 2023/10/16
